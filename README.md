@@ -1,2 +1,5 @@
 # cpp-practice
-School work
+
+
+Some of my School Practice Work
+Using c++
